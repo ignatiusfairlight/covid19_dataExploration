@@ -215,3 +215,5 @@ CREATE VIEW VaccinatedPopulation AS
 	JOIN Portfolio_Projects..[covid-vaccinations] vac
 		ON dea.location = vac.location
 		AND dea.date = vac.date
+
+/* Unfortunately, due the limitations of Tableau Public, the intention on visualizing the data from this query will not be moved forward. */
