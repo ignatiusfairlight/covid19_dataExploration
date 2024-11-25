@@ -9,10 +9,10 @@ This project will only cover the basic statistics on covid-19 cases and how it c
 that were applied:
 
   1. Converting data types
-	2. Joins
-	3. CTEs
-	4. Temp Tables
-	5. Windows functions
-	6. Aggregate functions
-	7. Creating views
-	8. Subqueries
+  2. Joins
+  3. CTEs
+  4. Temp Tables
+  5. Windows functions
+  6. Aggregate functions
+  7. Creating views
+  8. Subqueries
